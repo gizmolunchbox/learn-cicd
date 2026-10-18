@@ -1,6 +1,6 @@
 # learn-cicd-starter (Notely)
 
-![test badge](https://github.com/gizmolunchbox/add_tests/actions/workflows/ci.yml/badge.svg)
+![test badge](https://github.com/gizmolunchbox/learn-cicd/actions/workflows/ci.yml/badge.svg)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
